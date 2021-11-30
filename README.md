@@ -1,2 +1,2 @@
 # VNote
-Web based note taking app written in java and the database is MySQL
+A simple note making application with a Java Servlet back-end and React JS front-end.
